@@ -1,0 +1,14 @@
+{
+  "ORN_L": {"class": "olfactory", "side": "left"},
+  "ORN_R": {"class": "olfactory", "side": "right"},
+  "LN":    {"class": "ALLN"},
+  "PN_L":  {"class": "ALPN", "side": "left"},
+  "PN_R":  {"class": "ALPN", "side": "right"},
+  "LHN":   {"class": "LHLN|LHCENT"},
+  "MBON":  {"class": "MBON"},
+  "CX_L":  {"class": "CX", "side": "left"},
+  "CX_R":  {"class": "CX", "side": "right"},
+  "DN_L":  {"super_class": "descending", "side": "left"},
+  "DN_R":  {"super_class": "descending", "side": "right"},
+  "DN_FWD": {"super_class": "descending"}
+}

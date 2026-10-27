@@ -1,0 +1,15 @@
+{
+  "ORN_L": {"class": "olfactory", "side": "left"},
+  "ORN_R": {"class": "olfactory", "side": "right"},
+  "LN":    {"class": "ALLN"},
+  "PN_L":  {"class": "ALPN", "side": "left"},
+  "PN_R":  {"class": "ALPN", "side": "right"},
+  "LHN":   {"cell_type": "LHCENT3"},
+  "MBON":  {"cell_type": "MBON30|MBON09|MBON11|MBON01"},
+  "FBT":   {"cell_type": "FB2H_a|FB2H_b|FB5AB|FB1G"},
+  "CX_L":  {"cell_type": "PFL3", "side": "left"},
+  "CX_R":  {"cell_type": "PFL3", "side": "right"},
+  "DN_L":  {"cell_type": "DNa02", "side": "left"},
+  "DN_R":  {"cell_type": "DNa02", "side": "right"},
+  "DN_FWD": {"cell_type": "DNp09"}
+}

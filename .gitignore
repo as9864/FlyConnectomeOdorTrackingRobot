@@ -1,0 +1,10 @@
+# FlyWire raw data (download from codex.flywire.ai, see README)
+data/*
+!data/.gitkeep
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+~$*.docx
+.DS_Store
+Thumbs.db

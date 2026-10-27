@@ -1,0 +1,14 @@
+{
+  "ORN_L": {"class": "ALRN", "side": "left"},
+  "ORN_R": {"class": "ALRN", "side": "right"},
+  "LN":    {"class": "ALLN"},
+  "PN_L":  {"class": "ALPN", "side": "left"},
+  "PN_R":  {"class": "ALPN", "side": "right"},
+  "LHN":   {"class": "LHLN|LHCENT"},
+  "MBON":  {"class": "MBON"},
+  "CX_L":  {"cell_type": "hDeltaC", "side": "left"},
+  "CX_R":  {"cell_type": "hDeltaC", "side": "right"},
+  "DN_L":  {"cell_type": "DNa02", "side": "left"},
+  "DN_R":  {"cell_type": "DNa02", "side": "right"},
+  "DN_FWD": {"cell_type": "DNp09|oDN1"}
+}

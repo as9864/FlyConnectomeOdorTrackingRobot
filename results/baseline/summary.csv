@@ -1,0 +1,7 @@
+controller,success_rate,median_time,path_efficiency
+braitenberg,0.0,120.0,0.0
+connectome,0.9,20.6,0.9455807791675376
+connectome-CX_L-CX_R,0.0,120.0,0.0
+connectome-LHN,0.8,36.025000000000006,0.7444275278723986
+connectome-MBON,0.9,23.400000000000002,0.921697051714875
+surge_cast,0.9,26.05,0.7592707645565867
