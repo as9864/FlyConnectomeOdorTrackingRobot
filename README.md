@@ -45,6 +45,7 @@ results/
   flywire/    FlyWire 행렬 첫 실행, 다리 세포유형 점수, demo.gif
   separation/ V1~V4 비교, 실험장 크기, 센서 입력 위치 실험 (중간논문 결과)
 paper/        중간논문 Word 원고(v1~v5, v5가 최신), figures/
+papers/       관련 논문 오픈 액세스 PDF와 목록(papers/README.md)
 ```
 
 | 파일 | 내용 |
@@ -94,7 +95,7 @@ python src/trace_event.py data
 - 초파리 냄새 탐색 회로: Álvarez-Salvado 2018, Matheson 2022(FB 접선뉴런), Westeinde 2024·Mussells Pires 2024(PFL3), Rayshubskiy(DNa02).
 - 커넥톰 기반 모델·제어: FlyWire(Dorkenwald 2024, Schlegel 2024), Shiu 2024 뇌 전체 LIF, NeuroMechFly v2, Jin & Sui 2025, binivin(MaleCNS 532뉴런, 학습된 출력층, 70%), Connectocopter(뇌 전체 모델, 냄새 입력 폭주로 0/4).
 
-전체 비교와 참고문헌은 `paper/중간논문_커넥텀경로분리_v5.docx` 2장·5장에 있습니다.
+PDF는 `papers/`에 있습니다. 전체 비교와 참고문헌은 `paper/중간논문_커넥텀경로분리_v5.docx` 2장·5장에 있습니다.
 
 ## 남은 일과 한계
 
